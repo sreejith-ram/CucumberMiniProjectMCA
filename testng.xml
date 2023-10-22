@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<<<<<<< HEAD
+<suite name="Cucumber Automation suite" >
+<test name="Cucumber test" >
+<packages>
+<package name="com.amazon.testrunner" />
+<package name="stepDefinition" />
+</packages>
+</test>
+</suite>
+=======
+<suite name="CucumberJava" >
+<test name="Test" >
+
+<packages>
+<package name="com.amazon.testrunner" />
+<package name="stepDefinition" />
+</packages>
+</test> <!-- Test-->
+</suite> <!-- Suite-->
+>>>>>>>
